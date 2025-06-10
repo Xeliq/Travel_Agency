@@ -1,6 +1,6 @@
 # PROJEKT - Travel Agency App
 
-This is a .NET 6.0 C# application for managing a travel agency. The project includes database integration and uses several NuGet packages for extended functionality.
+This is a .NET 6.0 C# console application for managing a travel agency. The project includes database integration and uses several NuGet packages for extended functionality.
 
 ## Database
 
